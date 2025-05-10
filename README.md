@@ -11,9 +11,9 @@ I'm a software developer with over 15 years of experience, working across a wide
 - Continuous Learning: Learning is a vital part of my professional life. I love experimenting with new tools and technologies.
 
 ### 🛠 Technologies I Work With
-- Java, Spring Boot, Microservices, Kafka
+- Java, Kotlin, Spring Boot, Microservices, Kafka
 - Kubernetes, Docker
-- AWS, Azure
+- GCP, AWS, Azure
 - Hexagonal Architecture and DDD
 - CI/CD, DevOps
 
